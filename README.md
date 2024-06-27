@@ -1,8 +1,12 @@
-# React + Vite
+# Login
+![image](https://github.com/Himanshu1198/BlogApp/assets/143578896/d741666d-836c-4553-ab39-69657496366f)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sign Up
+![image](https://github.com/Himanshu1198/BlogApp/assets/143578896/c48bf2c4-3e69-4637-b95c-154fe1bc0398)
 
-Currently, two official plugins are available:
+# All Posts
+![image](https://github.com/Himanshu1198/BlogApp/assets/143578896/e35643c1-b656-4ea1-8749-8057c863e063)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Add a Post
+![image](https://github.com/Himanshu1198/BlogApp/assets/143578896/33f7183f-e5e1-43de-b56d-676cb111721a)
+
